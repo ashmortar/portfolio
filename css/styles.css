@@ -89,3 +89,9 @@ span {
 .panel-body ul {
   line-height: 2em;
 }
+
+#homepage-img {
+  padding-left: 5%;
+  float: left;
+  padding-right: 5%;
+}
