@@ -75,10 +75,14 @@ span {
 
 .contactimg {
     opacity: 1.0;
-    width: 40%;
-    margin:25px;
+    width: 25%;
+    margin: 15%;
 }
 
 .contactimg:hover {
     opacity: 0.5;
+}
+
+.panel-body ul {
+  line-height: 2em;
 }
