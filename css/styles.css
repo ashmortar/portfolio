@@ -29,11 +29,13 @@ body {
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
   background-color: #6e7f80;
+  color: #c4c4c4;
 }
 
 .nav a {
   color: white;
 }
+
 
 ol {
   color: white;
@@ -46,6 +48,7 @@ ol {
 
 #homepage-blurb {
   padding-left: 30px;
+  margin-top: 15px;
 }
 
 .hobbiesimgl {
