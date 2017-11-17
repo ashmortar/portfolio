@@ -2,60 +2,70 @@
   background-image: url("../img/billmurray.jpg");
   background-position: center;
   background-size: cover;
-  color: white;
-  border-color: gray;
+  color: #ebeeba;
+  border-color: #a27aa9;
   text-shadow: 1px 1px black;
   margin-left: 0;
   margin-right: 0;
 }
 
 body {
-  background-color: #536872;
+  background-color: #544d5e;
 }
 
 .panel {
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(116,58,26,0.5);
+  border-color: #a27aa9;
+  border-width: 1px;
 }
 
 .panel-heading {
-  color: white;
+  background-color: #a17c45;
+  color: #ebeeba;
   text-shadow: 1px 1px black;
 }
 
 .panel-body {
-  color: white;
+  color: #ebeeba;
   text-shadow: 1px 1px black;
 }
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
-  background-color: #6e7f80;
+  background-color:#a27aa9;
   color: #c4c4c4;
 }
 
 .nav a {
-  color: white;
+  color: #ebeeba;
 }
 
 
+ hr {
+   border-color: #a27aa9;
+ }
+
+ img {
+   border: 1px solid #a27aa9;
+ }
+
 ol {
-  color: white;
+  color: #ebeeba;
   text-shadow: 1px 1px black;
 }
  p {
-   color: white;
+   color: #ebeeba;
    text-shadow: 1px 1px black;
  }
 
 #homepage-blurb {
-  padding-left: 30px;
+  padding-left: 10%;
   margin-top: 15px;
 }
 
 .hobbiesimgl {
   float: left;
   height: 200px;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin-right: 15px;
 }
 
 .hobbiesimgr {
@@ -63,9 +73,6 @@ ol {
   height: 200px;
 }
 
-.panel-heading {
-  background-color: #6e7f80;
-}
 
 .panel-body p {
   padding: 10px;
@@ -80,6 +87,7 @@ span {
     opacity: 1.0;
     width: 25%;
     margin: 15%;
+    border: 0px solid white;
 }
 
 .contactimg:hover {
@@ -88,6 +96,10 @@ span {
 
 .panel-body ul {
   line-height: 2em;
+}
+
+.panel-footer {
+
 }
 
 #homepage-img {
