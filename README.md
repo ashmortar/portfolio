@@ -22,6 +22,10 @@ _{If you have any questions or concerns please contact me via email: ashmortar@g
 
 _{This project was completed using a combination of HTML, CSS and boostrap CSS elements.}_
 
+## Website on gh-pages
+
+* _{https://ashmortar.github.io/portfolio}_
+
 ### License
 
 Copyright (c) 2017 **_{Aaron Ross}_**
