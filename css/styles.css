@@ -1,0 +1,42 @@
+.well {
+  background-image: url("../img/billmurray.jpg");
+  background-position: center;
+  color: white;
+  border-color: gray;
+  text-shadow: 1px 1px black;
+}
+
+body {
+  background-image: url(../img/backgroundist.jpg);
+}
+
+.panel {
+  background-color: rgba(0,0,0,0.1);
+}
+
+.panel-heading {
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
+.panel-body {
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+  background-color: rgba(100,100,100,0.5);
+}
+
+.nav a {
+  color: white;
+}
+
+ol {
+  color: white;
+  text-shadow: 1px 1px black;
+}
+ p {
+   color: white;
+   text-shadow: 1px 1px black;
+ }
