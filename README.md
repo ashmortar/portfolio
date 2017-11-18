@@ -1,12 +1,12 @@
-# _{Portfolio for Aaron Ross}_
+# _Portfolio for Aaron Ross_
 
-#### _{A webpage to house my portfolio}, {11/17/2017}_/
+#### _A webpage to house my portfolio}, {11/17/201}_
 
-#### By _**{Aaron Ross}**_
+#### By _**Aaron Ross**_
 
 ## Description
 
-_{A webpage that contains my name, an image of me, a list of projets I have created along with their descriptions, an about me section, my background, and my hobbies/interests}_
+_A webpage that contains my name, an image of me, a list of projets I have created along with their descriptions, an about me section, my background, and my hobbies/interests_
 
 ## Setup/Installation Requirements
 
@@ -16,15 +16,15 @@ _{A webpage that contains my name, an image of me, a list of projets I have crea
 
 ## Support and contact details
 
-_{If you have any questions or concerns please contact me via email: ashmortar@gmail.com}_
+_If you have any questions or concerns please contact me via email: ashmortar@gmail.com_
 
 ## Technologies Used
 
-_{This project was completed using a combination of HTML, CSS and boostrap CSS elements.}_
+_This project was completed using a combination of HTML, CSS and boostrap CSS elements._
 
 ## Website on gh-pages
 
-* _{https://ashmortar.github.io/portfolio}_
+* _https://ashmortar.github.io/portfolio_
 
 ### License
 
